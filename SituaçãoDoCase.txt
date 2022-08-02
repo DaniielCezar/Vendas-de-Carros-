@@ -1,0 +1,19 @@
+Situação do case: 
+
+	Uma empresa, com alto capital, deseja ingressar no mercado de automóveis, e tem o intuito de partir dos Estados Unidos, por ser o lugar onde o esse mercado é mais aquecido. 
+	Mas para isso solicitou uma análise, para saber quem são os principais players da área e se vale o investimento.
+
+
+	Os insights tirados da análise e que serão apresentados: 
+
+		1- No mercado dos USA a parte esmagadora de vendas é feito por distribuidoras.
+
+		2- A maior parcela de vendas é de carros usados.
+
+		3- O tipo de combustível que domina o mercado ainda é o da Gasolina, identificando que todos os players possuem uma parte do mercado. 
+
+		4- Foram identificados como principais players do mercado a Toyota, Mercedes, BMW, Honda e Ford, Levando em consideração aqueles que tem mais avaliações de qualidade de negócio como Bom e Ótimo 
+			4.1- Deles foi identificado que a média de confiabilidade, conforto e desempenho é acima de 4,60.
+			4.2- E o Preço médio dos seus veículos varia de 33.000 dólares a 47.200 dólares.
+
+		Foram 9364 Vendas e 41 Marcas analisadas.
